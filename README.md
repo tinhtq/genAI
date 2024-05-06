@@ -1,2 +1,2 @@
 # genAI
-This repo related to OpenAI or AWS Bedrock
+This repo related to use OpenAI or AWS Bedrock
